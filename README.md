@@ -18,21 +18,21 @@ It’s designed as a dedicated Windows control deck with an OLED status display 
 ## Project Images
 
 ### Schematic
-Images/schematic.png
+![image](Images/schematic.png)
 
 ### PCB
-Images/pcb.png
+![image](Images/pcb.png)
 
 ### Case Design
 
 **Bottom Case**  
-Images/case_bottom.png 
+![image](Images/case_bottom.png)
 
 **Top Case**  
-Images/case_top.png
+![image](Images/case_top.png)
 
 ### Final Build
-
+![image](Images/case_assembled.png)
 
 ---
 
